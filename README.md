@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm OUALID LAMZAWAK</h1>
 <h3 align="center">A passionate Programmer from Morocco</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lamzawakoualid&label=Profile%20views&color=0e75b6&style=flat" alt="lamzawakoualid" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lamzawakoualid" alt="lamzawakoualid" /></a> </p>
@@ -10,6 +9,7 @@
 - 🔭 I am currently a student at [Faculty of Sciences Ibn Zohr Agadir](fsa.ac.ma/)
 
 - 🌱 I’m currently learning **react js**
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🤝 I’m looking for help with [portfolio-website](https://github.com/lamzawakoualid/portfolio)
 
@@ -37,11 +37,19 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/spiderior"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="spiderior" /></a><a href="https://ko-fi.com/spiderior"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="spiderior" /></a></p><br><br>
+<br><br><br>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lamzawakoualid&show_icons=true&locale=en&layout=compact" alt="lamzawakoualid" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=lamzawakoualid&show_icons=true&locale=en" alt="lamzawakoualid" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=lamzawakoualid&" alt="lamzawakoualid" />
+    </td>
+  </tr>
+</table>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lamzawakoualid&show_icons=true&locale=en&layout=compact" alt="lamzawakoualid" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lamzawakoualid&show_icons=true&locale=en" alt="lamzawakoualid" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lamzawakoualid&" alt="lamzawakoualid" /></p>
 
