@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/lamzawakoualid" target="blank"><img src="https://img.shields.io/twitter/follow/lamzawakoualid?logo=twitter&style=for-the-badge" alt="lamzawakoualid" /></a> </p>
 
-- 🔭 I am currently a student at [Faculty of Sciences Ibn Zohr Agadir](fsa.ac.ma/)
+- 🔭 I am currently a student at [Faculty of Sciences Ibn Zohr Agadir](www.fsa.ac.ma/)
 
 - 🌱 I’m currently learning **react js**
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://lamzawakoualid.github.io/portfolio/index.html](https://lamzawakoualid.github.io/portfolio/index.html)
 
-- 📝 I regularly write articles on [arraiid.tech/](arraiid.tech/)
+- 📝 I regularly write articles on [arraiid.tech/](www.arraiid.tech/)
 
 - 💬 Ask me about **java, kotlin , SQL**
 
