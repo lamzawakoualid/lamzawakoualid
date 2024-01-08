@@ -11,11 +11,11 @@
 - 🌱 I’m currently learning **react js**
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🤝 I’m looking for help with [portfolio-website](https://github.com/lamzawakoualid/portfolio)
+- 🤝 I’m looking for help with [portfolio-website](https://github.com/lamzawakoualid/portfolio){:target="_blank"}
 
-- 👨‍💻 All of my projects are available at [https://lamzawakoualid.github.io/portfolio/index.html](https://lamzawakoualid.github.io/portfolio/index.html)
+- 👨‍💻 All of my projects are available at [https://lamzawakoualid.github.io/portfolio/index.html](https://lamzawakoualid.github.io/portfolio/index.html){:target="_blank"}
 
-- 📝 I regularly write articles on [arraiid.tech/](www.arraiid.tech/)
+📝 I regularly write articles on <a href="https://www.arraiid.tech/" target="_blank">www.arraiid.tech</a>
 
 - 💬 Ask me about **java, kotlin , SQL**
 
