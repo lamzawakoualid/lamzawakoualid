@@ -1,139 +1,175 @@
+````md
 <div align="center">
-
-# 👋 Hello, I'm **OUALID LAMZAWAK**
-### 🚀 Software Developer from Morocco 🇲🇦
-
-[![Profile Views](https://komarev.com/ghpvc/?username=lamzawakoualid&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/lamzawakoualid)
-
-![Programmer GIF](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
-
-</div> REPLACE
-
-<<<<<<< SEARCH
----
-
-## 🧑‍💻 About Me
-
-- 🎓 Graduate — [Faculty of Sciences Ibn Zohr, Agadir](https://www.fsa.ac.ma/)
-- 🌱 Currently learning **n8n Automation**
-- 💬 Ask me about **Java, Kotlin, SQL**
-- 📫 Email: **oualid.lamzawak@edu.uiz.ac.ma**
-- ⚡ Fun fact: Chai > Coffee ☕
-
----
-=======
----
-
-## 🧑‍💻 About Me
-
-- 🎓 Graduate — [Faculty of Sciences Ibn Zohr, Agadir](https://www.fsa.ac.ma/)
-- 🌱 Currently learning **n8n Automation**
-- 💬 Ask me about **Java, Kotlin, SQL**
-- 📫 Email: **oualid.lamzawak@edu.uiz.ac.ma**
-- ⚡ Fun fact: Chai > Coffee ☕
-
----
-
----
-
-## 🧑‍💻 About Me
-
-- 🎓 Graduate — [Faculty of Sciences Ibn Zohr, Agadir](https://www.fsa.ac.ma/)
-- 🌱 Currently learning **n8n Automation**
-- 💬 Ask me about **Java, Kotlin, SQL**
-- 📫 Email: **oualid.lamzawak@edu.uiz.ac.ma**
-- ⚡ Fun fact: Chai > Coffee ☕
-
----
-
-## 🌐 Connect With Me
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
+</div>
 
 <div align="center">
-  <a href="https://twitter.com/lamzawakoualid">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=120&section=header" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=50&duration=1&pause=9999&color=F8FAFC&center=true&vCenter=true&repeat=false&width=700&height=75&lines=OUALID+LAMZAWAK" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=55&lines=Data+Analyst+%7C+AI+Engineer+%7C+Cybersecurity+Enthusiast;Python+%7C+Machine+Learning+%7C+Data+Analytics+%7C+Linux+%7C+AI+Systems" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/lamzawakoualid">
+    <img src="https://img.shields.io/badge/GitHub-lamzawakoualid-%23181717.svg?style=flat-square&logo=github&logoColor=white" height="24"/>
   </a>
-  <a href="https://linkedin.com/in/oualid-lamzawak">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  &nbsp;
+
+  <a href="https://www.linkedin.com/in/oualid-lamzawak/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white" height="24"/>
   </a>
-  <a href="https://fb.com/615548150229">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  &nbsp;
+
+  <a href="mailto:lamzawakoualid@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white" height="24"/>
   </a>
-  <a href="https://instagram.com/oualidlk">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
+  &nbsp;
+
+  <img src="https://img.shields.io/badge/Morocco-%23C1272D.svg?style=flat-square&logo=googlemaps&logoColor=white" height="24"/>
+  &nbsp;
+
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-%2322C55E.svg?style=flat-square" height="24"/>
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=1&section=header" width="60%"/>
+</div>
+
+<br/>
+
+## About
+
+I'm **OUALID LAMZAWAK**, a passionate **Data Analyst & AI Engineer** from Morocco.  
+I work on data analytics, artificial intelligence, machine learning, and cybersecurity projects.  
+I enjoy building smart digital solutions, automating workflows, and creating impactful AI-powered systems.
+
+- 🔭 **Currently working on:** AI systems, cybersecurity tools, and data analytics projects
+- 🌱 **Currently learning:** Advanced AI architectures, MLOps, and cloud technologies
+- 👯 **Looking to collaborate on:** Open-source AI, Data Science, and Cybersecurity projects
+- 💬 **Ask me about:** Python, Data Analytics, AI systems, Linux, and Machine Learning
+
+<br/>
 
 ---
 
-## 🛠️ Tech Stack
+# `> stack`
 
-### 💻 Programming Languages
+<br>
+
+## ⌨️ Languages
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45"/>
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="45"/>
+<img src="https://skillicons.dev/icons?i=python,js,cpp,r,html,css&theme=dark&perline=6" />
 </div>
+
+<br>
+
+## 🤖 AI · ML · Data Science
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,fastapi,postman&theme=dark&perline=6" />
+</div>
+
+<div align="center">
+<br>
+
+```txt
+Machine Learning · Deep Learning · Data Analytics · Pandas
+NumPy · Scikit-Learn · RAG Systems · AI Automation
+````
+
+</div>
+
+<br>
+
+## ⚡ Data Engineering · Analytics
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=spark,kafka,mysql&theme=dark&perline=6" />
+</div>
+
+<div align="center">
+<br>
+
+```txt
+Apache Spark · Data Pipelines · SQL · Data Visualization
+```
+
+</div>
+
+<br>
+
+## ☁️ Cloud · DevOps · Infrastructure
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,linux&theme=dark&perline=6" />
+</div>
+
+<br>
+
+## 🗄️ Databases
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase&theme=dark&perline=4" />
+</div>
+
+<br>
+
+## 🛠️ Environment & Tooling
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda,linux,latex&theme=dark&perline=6" />
+</div>
+
+<br/>
 
 ---
 
-### 🌐 Frontend
+# GitHub Stats
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="45"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=lamzawakoualid&show_icons=true&hide_border=true&bg_color=0d1117&title_color=64B5F6&icon_color=64B5F6&text_color=c9d1d9&count_private=true&rank_icon=github" />
+  &nbsp;&nbsp;
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamzawakoualid&hide_border=true&bg_color=0d1117&title_color=64B5F6&text_color=c9d1d9&layout=compact&langs_count=8" />
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=lamzawakoualid&theme=dark&hide_border=true&background=0d1117&ring=64B5F6&fire=64B5F6&currStreakLabel=64B5F6" width="55%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lamzawakoualid&theme=react-dark&bg_color=0d1117&color=64B5F6&line=1E40AF&point=64B5F6&hide_border=true&area=true" width="100%"/>
+</div>
+
+<br/>
 
 ---
 
-### 📱 Mobile
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="45"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="45"/>
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="45"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=1&section=footer" width="60%"/>
+
+<br/><br/>
+
+<sub><i>"Turning data into intelligent solutions powered by AI and innovation."</i></sub>
+
+<br/><br/>
+
+  <img src="https://komarev.com/ghpvc/?username=lamzawakoualid&style=flat-square&color=64B5F6&label=Profile+Views" />
 </div>
-
----
-
-### 🗄️ Databases
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="45"/>
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="45"/>
-</div>
-
----
-
-### ⚙️ Tools
-<div align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="45"/>
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lamzawakoualid&show_icons=true&theme=tokyonight&hide_border=true" alt="OUALID LAMZAWAK's GitHub stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamzawakoualid&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lamzawakoualid&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%"/>
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lamzawakoualid&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+```
